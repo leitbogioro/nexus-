@@ -107,10 +107,16 @@ pause>nul
 fastboot.exe flash userdata userdata.img
 echo.
 echo.
-echo.    刷机已完成，点击任意键退出!
+echo.    刷机已完成，请按回车键重启！
 echo.
 echo.  
 pause>nul
+fastboot.exe reboot
 echo.
+echo.
+echo.    请按任意键退出程序.....
+echo.
+echo.
+pause>nul
 echo.
 echo.
