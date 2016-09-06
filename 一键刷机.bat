@@ -4,7 +4,7 @@ cls
 color 1E
 echo. 
 echo. 
-echo.    ------刷机前请确认-----
+echo.    ------刷机前请确认------
 echo.
 echo.    1.  fastboot工具包和官方刷机七件套；
 echo.    2.  驱动已经正确安装；
